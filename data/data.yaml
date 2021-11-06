@@ -1,0 +1,5 @@
+train: C:\Users\host64\PycharmProjects\LAFish\data\images\train
+val: C:\Users\host64\PycharmProjects\LAFish\data\images\valid
+
+nc: 2
+names: ['exclamation', 'bait']
